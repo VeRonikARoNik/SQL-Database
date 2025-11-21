@@ -12,3 +12,10 @@ Zapytanie 3: SELECT nazwa, nazwisko, email FROM uczestnicy JOIN wyklady ON wykla
 Zapytanie 4: ALTER TABLE uczestnicy DROP COLUMN haslo;
 ```
 https://ee-informatyk.pl/inf03-ee09/praktyka/INF.03-06-24.06-SG
+
+
+<img width="576" height="471" alt="image" src="https://github.com/user-attachments/assets/027056d8-a9a7-4282-a009-58697ad793e3" />
+
+<img width="520" height="234" alt="image" src="https://github.com/user-attachments/assets/8e47a5a1-8ee6-4528-909c-780b4d757181" />
+
+
