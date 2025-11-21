@@ -18,4 +18,13 @@ https://ee-informatyk.pl/inf03-ee09/praktyka/INF.03-06-24.06-SG
 
 <img width="520" height="234" alt="image" src="https://github.com/user-attachments/assets/8e47a5a1-8ee6-4528-909c-780b4d757181" />
 
+```
+1.	Zapytanie 1: SELECT pasmo, nazwa_gory, wysokosc FROM gory ORDER BY wysokosc DESC LIMIT 10;
+2.	Zapytanie 2: SELECT nazwisko, imie, funkcja, email FROM osoby;
+3.	Zapytanie 3: INSERT INTO osiagniecia VALUES (NULL, 182, 4, "2024-06-08");
+4.	Zapytanie 4: INSERT INTO osoby VALUES (NULL, 'M.', 'Miłosz', 'uczestnik', 'm.milosz@zdobywcyxyz.pl');
+
+```
+
+https://ee-informatyk.pl/inf03-ee09/praktyka/INF.03-09-25.01-SG-rozwiazanie
 
